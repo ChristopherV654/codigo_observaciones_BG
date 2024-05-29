@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dyvenproDBSModelStoreContainer" CdmEntityContainer="dyvenproDBSEntities">
+    <EntitySetMapping Name="dat_depurada_dyvenpro">
+      <EntityTypeMapping TypeName="dyvenproDBSModel.dat_depurada_dyvenpro">
+        <MappingFragment StoreEntitySet="dat_depurada_dyvenpro">
+          <ScalarProperty Name="UUID" ColumnName="UUID" />
+          <ScalarProperty Name="Codigobarras" ColumnName="Codigobarras" />
+          <ScalarProperty Name="Precio" ColumnName="Precio" />
+          <ScalarProperty Name="Caras" ColumnName="Caras" />
+          <ScalarProperty Name="Fondo" ColumnName="Fondo" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
