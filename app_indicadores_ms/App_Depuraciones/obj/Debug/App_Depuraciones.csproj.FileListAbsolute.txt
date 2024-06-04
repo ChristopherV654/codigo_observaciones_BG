@@ -1,0 +1,95 @@
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\bin\Debug\App_Depuraciones.exe.config
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\bin\Debug\App_Depuraciones.exe.manifest
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\bin\Debug\App_Depuraciones.application
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\bin\Debug\App_Depuraciones.exe
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\bin\Debug\App_Depuraciones.pdb
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\bin\Debug\EntityFramework.dll
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\bin\Debug\EPPlus.dll
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\bin\Debug\EntityFramework.xml
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\bin\Debug\EPPlus.xml
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\obj\Debug\App_Depuraciones.csprojAssemblyReference.cache
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\obj\Debug\App_Depuraciones.Form1.resources
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\obj\Debug\App_Depuraciones.Properties.Resources.resources
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.GenerateResource.cache
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\obj\Debug\App_Depuraciones.exe.manifest
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\obj\Debug\App_Depuraciones.application
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.CopyComplete
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\obj\Debug\App_Depuraciones.exe
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\obj\Debug\App_Depuraciones.pdb
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\bin\Debug\EntityFramework.MappingAPI.dll
+C:\Users\dsamueza\source\repos\App_Depuraciones\App_Depuraciones\bin\Debug\EntityFramework.BulkInsert.dll.config
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.AssemblyReference.cache
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.Form1.resources
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.Properties.Resources.resources
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.GenerateResource.cache
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.CoreCompileInputs.cache
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.exe
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.pdb
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.exe.config
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.exe.manifest
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.application
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.exe
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.pdb
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.dll
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.MappingAPI.dll
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EPPlus.dll
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.xml
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.BulkInsert.dll.config
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EPPlus.xml
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.exe.manifest
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.application
+C:\Users\dsamueza.MARDISRESEARCH\Source\Repos\MardisIT\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.CopyComplete
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.AssemblyReference.cache
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.Form1.resources
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.Properties.Resources.resources
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.GenerateResource.cache
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.CoreCompileInputs.cache
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.exe
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.pdb
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.exe.config
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.exe.manifest
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.application
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.exe
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.pdb
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.dll
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.MappingAPI.dll
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EPPlus.dll
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.xml
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.BulkInsert.dll.config
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EPPlus.xml
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.exe.manifest
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.application
+C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.CopyComplete
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.exe.config
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.exe.manifest
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.application
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.exe
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\App_Depuraciones.pdb
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.BulkInsert.dll
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.dll
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.MappingAPI.dll
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.SqlServer.dll
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EPPlus.dll
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.xml
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.BulkInsert.dll.config
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EntityFramework.SqlServer.xml
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\bin\Debug\EPPlus.xml
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.AssemblyReference.cache
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.Form1.resources
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.Properties.Resources.resources
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.GenerateResource.cache
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.CoreCompileInputs.cache
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.exe.manifest
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.application
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.CopyComplete
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.exe
+D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.pdb

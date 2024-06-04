@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cvasco\\source\\repos\\MardisIT\\codigo_observaciones_BG\\app_indicadores_dyvenpro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2E1EE6-F903-47FA-9F0A-0858FC56BC86}|App_Depuraciones\\App_Depuraciones.csproj|c:\\users\\cvasco\\source\\repos\\mardisit\\codigo_observaciones_bg\\app_indicadores_dyvenpro\\app_depuraciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA2E1EE6-F903-47FA-9F0A-0858FC56BC86}|App_Depuraciones\\App_Depuraciones.csproj|solutionrelative:app_depuraciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2E1EE6-F903-47FA-9F0A-0858FC56BC86}|App_Depuraciones\\App_Depuraciones.csproj|C:\\Users\\cvasco\\source\\repos\\MardisIT\\codigo_observaciones_BG\\app_indicadores_dyvenpro\\app_depuraciones\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2E1EE6-F903-47FA-9F0A-0858FC56BC86}|App_Depuraciones\\App_Depuraciones.csproj|solutionrelative:app_depuraciones\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2E1EE6-F903-47FA-9F0A-0858FC56BC86}|App_Depuraciones\\App_Depuraciones.csproj|C:\\Users\\cvasco\\source\\repos\\MardisIT\\codigo_observaciones_BG\\app_indicadores_dyvenpro\\app_depuraciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2E1EE6-F903-47FA-9F0A-0858FC56BC86}|App_Depuraciones\\App_Depuraciones.csproj|solutionrelative:app_depuraciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2E1EE6-F903-47FA-9F0A-0858FC56BC86}|App_Depuraciones\\App_Depuraciones.csproj|C:\\Users\\cvasco\\source\\repos\\MardisIT\\codigo_observaciones_BG\\app_indicadores_dyvenpro\\app_depuraciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2E1EE6-F903-47FA-9F0A-0858FC56BC86}|App_Depuraciones\\App_Depuraciones.csproj|solutionrelative:app_depuraciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cvasco\\source\\repos\\MardisIT\\codigo_observaciones_BG\\app_indicadores_dyvenpro\\App_Depuraciones\\Form1.cs",
+              "RelativeDocumentMoniker": "App_Depuraciones\\Form1.cs",
+              "ToolTip": "C:\\Users\\cvasco\\source\\repos\\MardisIT\\codigo_observaciones_BG\\app_indicadores_dyvenpro\\App_Depuraciones\\Form1.cs",
+              "RelativeToolTip": "App_Depuraciones\\Form1.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAlwJsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:32:52.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cvasco\\source\\repos\\MardisIT\\codigo_observaciones_BG\\app_indicadores_dyvenpro\\App_Depuraciones\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "App_Depuraciones\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\cvasco\\source\\repos\\MardisIT\\codigo_observaciones_BG\\app_indicadores_dyvenpro\\App_Depuraciones\\Form1.Designer.cs",
+              "RelativeToolTip": "App_Depuraciones\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:32:12.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\cvasco\\source\\repos\\MardisIT\\codigo_observaciones_BG\\app_indicadores_dyvenpro\\App_Depuraciones\\Form1.cs",
+              "RelativeDocumentMoniker": "App_Depuraciones\\Form1.cs",
+              "ToolTip": "C:\\Users\\cvasco\\source\\repos\\MardisIT\\codigo_observaciones_BG\\app_indicadores_dyvenpro\\App_Depuraciones\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "App_Depuraciones\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:32:41.34Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cvasco\\source\\repos\\MardisIT\\codigo_observaciones_BG\\app_indicadores_dyvenpro\\App_Depuraciones\\Program.cs",
+              "RelativeDocumentMoniker": "App_Depuraciones\\Program.cs",
+              "ToolTip": "C:\\Users\\cvasco\\source\\repos\\MardisIT\\codigo_observaciones_BG\\app_indicadores_dyvenpro\\App_Depuraciones\\Program.cs",
+              "RelativeToolTip": "App_Depuraciones\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-06T21:29:37.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
