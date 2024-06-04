@@ -93,3 +93,27 @@ D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_
 D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.CopyComplete
 D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.exe
 D:\David Manguay\repos\Codigo_Observaciones_masivo\app_indicadores_dyvenpro\App_Depuraciones\obj\Debug\App_Depuraciones.pdb
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\bin\Debug\App_Depuraciones.exe.config
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\bin\Debug\App_Depuraciones.exe.manifest
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\bin\Debug\App_Depuraciones.application
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\bin\Debug\App_Depuraciones.exe
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\bin\Debug\App_Depuraciones.pdb
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\bin\Debug\EntityFramework.dll
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\bin\Debug\EntityFramework.MappingAPI.dll
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\bin\Debug\EPPlus.dll
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\bin\Debug\EntityFramework.xml
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\bin\Debug\EntityFramework.BulkInsert.dll.config
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\bin\Debug\EPPlus.xml
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.AssemblyReference.cache
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\obj\Debug\App_Depuraciones.Form1.resources
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\obj\Debug\App_Depuraciones.Properties.Resources.resources
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.GenerateResource.cache
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\obj\Debug\App_Depuraciones.csproj.CoreCompileInputs.cache
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\obj\Debug\App_Depuraciones.exe.manifest
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\obj\Debug\App_Depuraciones.application
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\obj\Debug\App_Depu.49D2D3CD.Up2Date
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\obj\Debug\App_Depuraciones.exe
+C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\obj\Debug\App_Depuraciones.pdb

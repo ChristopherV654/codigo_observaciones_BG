@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="App_Depuraciones.exe" size="27136">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="App_Depuraciones.exe" size="21504">
       <assemblyIdentity name="App_Depuraciones" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OS+dFC6sc6XA3A5BqXArXjjvFXp9UvoTlGPuJqCp4Bg=</dsig:DigestValue>
+        <dsig:DigestValue>8FAsr1Ce3L4mHKBIxeA/M9QA3RjmFuTK8Iw//Bcm7ic=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
