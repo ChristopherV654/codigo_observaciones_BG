@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace App_Depuraciones.Model
+namespace App_Depuraciones_MS_BG.Model
 {
     public class Formatokia
     {
         public string Codigo { get; set; }
         public string Estado { get; set; }
-        public string NombreCliente { get; set; }
+        public string? NombreCliente { get; set; }
         public string NombreAsesor { get; set; }
         public string Observacion { get; set; }
         public string P34_1 { get; set; }

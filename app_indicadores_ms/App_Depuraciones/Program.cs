@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace App_Depuraciones
+namespace App_Depuraciones_MS_BG
 {
     static class Program
     {

@@ -1,4 +1,4 @@
-﻿// La generación de código T4 está habilitada para el modelo 'C:\Users\lortiz\Desktop\app_indicadores_dyvenpro\App_Depuraciones\Base\Dyvenpro.edmx'. 
+﻿// La generación de código T4 está habilitada para el modelo 'C:\Users\cvasco\source\repos\MardisIT\codigo_observaciones_BG\app_indicadores_ms\App_Depuraciones\Base\Dyvenpro.edmx'. 
 // Para habilitar la generación de código heredada, cambie el valor de la propiedad del diseñador 'Estrategia de generación de código'
 // por 'ObjectContext heredado'. Esta propiedad está disponible en la ventana Propiedades cuando se abre
 // el modelo en el diseñador.

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace App_Depuraciones.Model
+namespace App_Depuraciones_MS_BG.Model
 {
   public  class FormatoActividades
     {

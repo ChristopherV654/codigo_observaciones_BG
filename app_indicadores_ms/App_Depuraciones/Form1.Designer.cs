@@ -1,4 +1,4 @@
-﻿namespace App_Depuraciones
+﻿namespace App_Depuraciones_MS_BG
 {
     partial class Form1
     {

@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\App_Depuraciones"
+    "\\App_Depuraciones",
+    "\\App_Depuraciones\\Model"
   ],
-  "SelectedNode": "\\App_Depuraciones\\Form1.cs",
+  "SelectedNode": "\\App_Depuraciones\\Model\\FormaIndicadores.cs",
   "PreviewInSolutionExplorer": false
 }

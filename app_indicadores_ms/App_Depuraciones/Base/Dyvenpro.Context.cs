@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace App_Depuraciones.Base
+namespace App_Depuraciones_MS_BG.Base
 {
     using System;
     using System.Data.Entity;

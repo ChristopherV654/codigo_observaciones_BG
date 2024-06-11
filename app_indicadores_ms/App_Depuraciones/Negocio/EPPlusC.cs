@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace App_Depuraciones.Negocio
+namespace App_Depuraciones_MS_BG.Negocio
 {
     public static class EPPlusC
     {

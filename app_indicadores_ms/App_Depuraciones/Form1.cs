@@ -1,5 +1,5 @@
-﻿using App_Depuraciones.Model;
-using App_Depuraciones.Negocio;
+﻿using App_Depuraciones_MS_BG.Model;
+using App_Depuraciones_MS_BG.Negocio;
 using OfficeOpenXml;
 using System;
 using System.Collections.Generic;
@@ -11,10 +11,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using App_Depuraciones.Base;
+using App_Depuraciones_MS_BG.Base;
 using EntityFramework.BulkInsert.Extensions;
 
-namespace App_Depuraciones
+namespace App_Depuraciones_MS_BG
 {
     public partial class Form1 : Form
     {
